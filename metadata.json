@@ -1,0 +1,8 @@
+{
+  "name": "Remix Calculator",
+  "description": "A premium modern SaaS calculator with Standard, Scientific, Financial tools, Unit conversion, history tape, and haptic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
